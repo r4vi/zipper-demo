@@ -4,11 +4,10 @@ A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
-FIXME
+poke around /src/zipper-demo/core.clj in a live repl
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Ravi Kotecha
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+WTFPL
